@@ -1,0 +1,22 @@
+    body {background: black;
+    color: white;
+    
+    }
+
+    div { background: #C6C5C5;
+        width: 50%;
+        color: #345843;
+        border: 5px solid #5BD4DE;
+        padding: 10px;
+        margin: 0.5%;
+        text-align: left;
+        display: inline-block;
+        position: 50px;
+}
+    .box {
+        position: relative;
+        top:;
+        bottom: ;
+        right:;
+        left:200px;
+    }
